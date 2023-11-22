@@ -1,0 +1,31 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "server": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andaleeb",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fcm-node": "^1.6.1",
+    "firebase": "^10.0.0",
+    "http-status-codes": "^2.2.0",
+    "joi": "^17.8.4",
+    "jshint": "^2.13.6",
+    "jsonwebtoken": "^9.0.0",
+    "momment": "0.0.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.2.0",
+    "node-cron": "^3.0.2",
+    "nodemon": "^2.0.21",
+    "sequelize": "^6.29.3"
+  }
+}
