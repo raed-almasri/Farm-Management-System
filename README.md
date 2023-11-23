@@ -38,8 +38,6 @@ The system provides several endpoints for managing different aspects of the farm
 -   Disable Animal: `{{URL}}/farm/animals/disable/3501`
 -   View all Animals: `{{URL}}/farm/animals/all`
 
-(Continue with the rest of the endpoints)
-
 ## Installation
 
 1. Clone the repo
@@ -71,6 +69,7 @@ For the authentication, I used JSON Web Token (JWT), Bearer Token. When you log 
 
 Hi, I'm Raed Al Masri, a programmer Backend Developer. You can find me on:
 
--   `Telegram`: https://t.me/RAED_AL_Masri
 -   `LinkedIn`: https://www.linkedin.com/in/raed-al-masri-445b4b292/
+-   `Instagram`: https://www.instagram.com/raed.almasri.tech/
+-   `Telegram`: https://t.me/RAED_AL_Masri
 -   `Github`: https://github.com/raedAlmasriIt
